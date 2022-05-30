@@ -795,7 +795,7 @@
 							}
 						}
 					},
-					asstesDirectory: "/assets/spine/",
+					asstesDirectory: "/tronragnarok/assets/spine/",
 					prefixSeparator: "_",
 					initial: {
 						spineName: "char",
